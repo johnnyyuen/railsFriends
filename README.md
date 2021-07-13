@@ -1,5 +1,7 @@
 # README
 
+**Follow along vidoe from https://www.youtube.com/watch?v=fmyvWz5TUWg&t=12417s
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
